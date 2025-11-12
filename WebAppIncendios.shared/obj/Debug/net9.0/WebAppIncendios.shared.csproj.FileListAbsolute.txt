@@ -1,0 +1,12 @@
+/home/samuel/Documents/Proyecto_final/WebAppIncendios.shared/bin/Debug/net9.0/WebAppIncendios.shared.deps.json
+/home/samuel/Documents/Proyecto_final/WebAppIncendios.shared/bin/Debug/net9.0/WebAppIncendios.shared.dll
+/home/samuel/Documents/Proyecto_final/WebAppIncendios.shared/bin/Debug/net9.0/WebAppIncendios.shared.pdb
+/home/samuel/Documents/Proyecto_final/WebAppIncendios.shared/obj/Debug/net9.0/WebAppIncendios.shared.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/Documents/Proyecto_final/WebAppIncendios.shared/obj/Debug/net9.0/WebAppIncendios.shared.AssemblyInfoInputs.cache
+/home/samuel/Documents/Proyecto_final/WebAppIncendios.shared/obj/Debug/net9.0/WebAppIncendios.shared.AssemblyInfo.cs
+/home/samuel/Documents/Proyecto_final/WebAppIncendios.shared/obj/Debug/net9.0/WebAppIncendios.shared.csproj.CoreCompileInputs.cache
+/home/samuel/Documents/Proyecto_final/WebAppIncendios.shared/obj/Debug/net9.0/WebAppIncendios.shared.sourcelink.json
+/home/samuel/Documents/Proyecto_final/WebAppIncendios.shared/obj/Debug/net9.0/WebAppIncendios.shared.dll
+/home/samuel/Documents/Proyecto_final/WebAppIncendios.shared/obj/Debug/net9.0/refint/WebAppIncendios.shared.dll
+/home/samuel/Documents/Proyecto_final/WebAppIncendios.shared/obj/Debug/net9.0/WebAppIncendios.shared.pdb
+/home/samuel/Documents/Proyecto_final/WebAppIncendios.shared/obj/Debug/net9.0/ref/WebAppIncendios.shared.dll
